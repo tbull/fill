@@ -1,7 +1,7 @@
 /*
  *  fill - fill a file full of zeroes
  *
- *  (C) Copyright 2002-2010 by T-Bull <tbull@tbull.org>
+ *  (C) Copyright 2002-2012 by Roland Bluethgen (a.k.a. T-Bull) <tbull (at) tbull (dot) org>
  *
  */
 
@@ -70,8 +70,8 @@ private const char * usagestring = "Usage:\n\
 
 private const char * versionstring = "\
 fill version " PROGRAM_VERSION "\n\
-(C) Copyright 2002-2010 by T-Bull <tbull@tbull.org>\n"   /* \
-Project homepage: <http://calocybe.dyndns.org/software/fill>\n" */
+(C) Copyright 2002-2012 by T-Bull <tbull (at) tbull (dot) org>\n"   /* \
+Project homepage: <>\n" */
 #ifdef __CYGWIN__
 "Deploying Cygwin UNIX emulation layer <http://cygwin.com/>\n"
 #endif
